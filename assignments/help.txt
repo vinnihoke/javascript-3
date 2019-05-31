@@ -1,0 +1,1 @@
+Jonathan, I accidentally merged to my master branch, then tried to follow a git revert tutorial and now my project is all thrown off in VS Code. The good news is the push to my vinni-hoke branch is fine. I'm making this txt file to hopefully be able to create a PR, because both branches are the same.
